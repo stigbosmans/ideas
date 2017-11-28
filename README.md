@@ -7,6 +7,9 @@
 ## Stock Prediction
 - https://www.datasciencecentral.com/profiles/blogs/cnn-for-short-term-stocks-prediction-using-tensorflow
 
+## Deep Reinforcement Learning
+- https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
+
 ## Techniques to master
 - GPU computation
 - Clustered computation
